@@ -36,8 +36,7 @@ source venv/bin/activate
 ```bash
 source venv/Scripts/activate
 ```
-4. Поднимите контейнеры в Докере
-Выполните команду
+4. Выполните команду
 ```bash
 docker build -t test-runner .
 ```
